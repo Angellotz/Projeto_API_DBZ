@@ -96,7 +96,7 @@ No arquivo `appsettings.json`, configure sua conexão:
 
 1. Clone o repositório  
 2. Configure o SQL Server  
-3. Rode as migrations (se tiver)  
+3. Rode as migrations   
 4. Execute a API:
 
 ```
